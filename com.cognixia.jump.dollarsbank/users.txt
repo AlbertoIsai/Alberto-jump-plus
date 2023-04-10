@@ -1,0 +1,2 @@
+Alberto,tx,12345,1,123,120.0,Deposit: +20.0 USD;Account opened with 100USD;null;null;nullAlberto,1234 Rd,123-123-123,2,123,400.0,Account opened with 400USD;null;null;null;null
+a,123,23,2,123,300.0,Account opened with 300USD;null;null;null;null
